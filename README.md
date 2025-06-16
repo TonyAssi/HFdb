@@ -2,7 +2,7 @@
 
 HFdb is a lightweight Python module that turns a [Hugging Face Hub](https://huggingface.co/) dataset repo into a simple, private CSV-based database. It supports basic CRUD operations and works well for small, structured data where you want versioned cloud persistence.
 
----
+![c7a26002-7d2f-40dc-b347-1ff1f41c7092](https://github.com/user-attachments/assets/44820ab3-3c25-416a-8fba-02c3f4a10f8c)
 
 ## 📦 Features
 
